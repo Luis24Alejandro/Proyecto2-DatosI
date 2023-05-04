@@ -1,0 +1,32 @@
+[
+  {
+    "nombre": "Mondongo",
+    "calorias": 300,
+    "tiempoPreparacion": 10,
+    "precio": 2000.0
+  },
+  {
+    "nombre": "Tacos",
+    "calorias": 400,
+    "tiempoPreparacion": 20,
+    "precio": 80.0
+  },
+  {
+    "nombre": "Uli",
+    "calorias": 1234,
+    "tiempoPreparacion": 1234,
+    "precio": 1234.0
+  },
+  {
+    "nombre": "Uli222",
+    "calorias": 1234,
+    "tiempoPreparacion": 1234,
+    "precio": 1234.0
+  },
+  {
+    "nombre": "carne",
+    "calorias": 550,
+    "tiempoPreparacion": 35,
+    "precio": 110.0
+  }
+]
